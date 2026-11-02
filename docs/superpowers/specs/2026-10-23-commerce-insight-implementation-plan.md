@@ -1,5 +1,7 @@
 # Commerce Insight 实施计划
 
+> **实现状态（2026-11-02）**：本文是**计划文档**，多数任务（Medusa 应用骨架、PostgreSQL、真实支付/分析接入、Playwright E2E 等）尚未落地。当前实现范围见 [FACT_CARD.md](../../FACT_CARD.md)。
+
 ## 概览
 
 使用 Medusa v2 应用脚手架与 Next.js Storefront，交付中文跨境电商演示和产品分析闭环。计划按“发现—决策—转化—实验—复盘”纵向推进，并把真实外部服务都设计为可选适配器。

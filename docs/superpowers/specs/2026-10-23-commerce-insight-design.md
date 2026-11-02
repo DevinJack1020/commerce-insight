@@ -3,6 +3,8 @@
 日期：2026-10-23  
 状态：待用户书面复核
 
+> **实现状态（2026-11-02）**：本文是**设计草案**，描述目标形态；其中 Medusa v2 后端、PostgreSQL、AI 评论摘要、PostHog SDK、Playwright E2E 等**当前仓库并不存在**。实际已实现 / 未实现清单见 [FACT_CARD.md](../../FACT_CARD.md)，实验方案与模拟数据边界见 [EXPERIMENT_DESIGN.md](../../EXPERIMENT_DESIGN.md)。
+
 ## 1. 项目定位
 
 Commerce Insight 是面向小型跨境电商场景的中文商品发现与转化优化系统。用户可以完成“发现商品—查看详情—加购—结算—模拟支付—订单确认”，产品团队可以观察漏斗并比较普通排序和高性价比排序实验。
